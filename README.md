@@ -1,4 +1,4 @@
 openstack.ops-tools
 ===================
 
-Tools for Monitoring and Operating OpenStack Clouds
+Cloud Tooling for Private Clouds running on OpenStack, Contrail & Ceph
